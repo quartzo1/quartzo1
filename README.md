@@ -18,13 +18,20 @@ I build things that solve real problems: AI tools, data-collection systems, CRMs
 | [**Ian Builds For You**](https://ianbuildsforyou.com) | My web design business: fast, mobile-first websites for small businesses in Western New York |
 | [**ianjonesportfolio.com**](https://ianjonesportfolio.com) | My portfolio site (React, Vite, Tailwind, Cloudflare Pages) |
 
-### 🤖 Machine learning coursework
+### 🤖 Machine learning demos
 
-Labs from my Data Science & AI classes:
+Interactive browser demos I built for my Data Science & AI classes. Click **Live demo** to try them:
 
-- **K-means clustering:** [centroids](https://github.com/quartzo1/centroids), [centroids 2](https://github.com/quartzo1/CENTROIDS2), [elbow method](https://github.com/quartzo1/ELBOWTHING), [3D image clustering](https://github.com/quartzo1/3DIMAGECLUSTERING)
-- **Classification:** [k-nearest neighbors](https://github.com/quartzo1/knearestneighbor), [Gini impurity simulation](https://github.com/quartzo1/Final-machine-learning-Gini-impurity-sim-ADVANCED)
-- **Optimization:** [gradient descent lab](https://github.com/quartzo1/Final-mathmatics-ADVANCED-GRADIENT-Descent-LAB)
+| Demo | Concept | Links |
+|---|---|---|
+| Blob / Moons Classifier | Neural network (MLP) classification | [Live demo](https://quartzo1.github.io/FINAL/) · [code](https://github.com/quartzo1/FINAL) |
+| Gini Impurity Decision Tree Lab | Decision trees | [Live demo](https://quartzo1.github.io/Final-machine-learning-Gini-impurity-sim-ADVANCED/) · [code](https://github.com/quartzo1/Final-machine-learning-Gini-impurity-sim-ADVANCED) |
+| k-Nearest Neighbors | KNN classification | [Live demo](https://quartzo1.github.io/knearestneighbor/) · [code](https://github.com/quartzo1/knearestneighbor) |
+| RGB K-Means Image Quantizer | K-means on image colors | [Live demo](https://quartzo1.github.io/3DIMAGECLUSTERING/) · [code](https://github.com/quartzo1/3DIMAGECLUSTERING) |
+| K-Means Elbow Method | Choosing the number of clusters | [Live demo](https://quartzo1.github.io/ELBOWTHING/) · [code](https://github.com/quartzo1/ELBOWTHING) |
+| State Flag RGB Clusters | Clustering real-world color data | [Live demo](https://quartzo1.github.io/stateflag/) · [code](https://github.com/quartzo1/stateflag) |
+| Gradient Descent Lab | Optimization | [Live demo](https://quartzo1.github.io/FinalmathmaticsADVANCEDGRADIENTDescentLAB/) · [code](https://github.com/quartzo1/FinalmathmaticsADVANCEDGRADIENTDescentLAB) |
+| Centroid Playground | K-means centroids | [Live demo](https://quartzo1.github.io/centroids/) · [code](https://github.com/quartzo1/centroids) |
 
 ### 💼 Experience
 
