@@ -4,7 +4,7 @@
 
 I build things that solve real problems: AI tools, data-collection systems, CRMs, and websites.
 
-🌐 **Portfolio:** [ianjonesportfolio.com](https://ianjonesportfolio.com) · 💼 **LinkedIn:** [ian-jones-83a44832a](https://www.linkedin.com/in/ian-jones-83a44832a/) · 🛠️ **Web design business:** [ianbuildsforyou.com](https://ianbuildsforyou.com)
+🌐 **Portfolio:** [ianjonesportfolio.com](https://ianjonesportfolio.com) · 💼 **LinkedIn:** [ian-jones-83a44832a](https://www.linkedin.com/in/ian-jones-83a44832a/) · 🛠️ **Web design business:** [ianbuildsforyou.com](https://ianbuildsforyou.com) · 🛡️ **TryHackMe:** [choose](https://tryhackme.com/p/choose)
 
 ---
 
@@ -32,6 +32,10 @@ Interactive browser demos I built for my Data Science & AI classes. Click **Live
 | State Flag RGB Clusters | Clustering real-world color data | [Live demo](https://quartzo1.github.io/stateflag/) · [code](https://github.com/quartzo1/stateflag) |
 | Gradient Descent Lab | Optimization | [Live demo](https://quartzo1.github.io/FinalmathmaticsADVANCEDGRADIENTDescentLAB/) · [code](https://github.com/quartzo1/FinalmathmaticsADVANCEDGRADIENTDescentLAB) |
 | Centroid Playground | K-means centroids | [Live demo](https://quartzo1.github.io/centroids/) · [code](https://github.com/quartzo1/centroids) |
+
+### 🛡️ Cybersecurity practice
+
+Hands-on labs on [TryHackMe](https://tryhackme.com/p/choose) (**top 15%** of users), working with Burp Suite, Wireshark, Dirbuster, Autopsy, and Linux.
 
 ### 💼 Experience
 
