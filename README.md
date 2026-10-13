@@ -4,7 +4,7 @@
 
 I build things that solve real problems: AI tools, data-collection systems, CRMs, and websites.
 
-🌐 **Portfolio:** [ianjonesportfolio.com](https://ianjonesportfolio.com) · 💼 **LinkedIn:** [ian-jones-83a44832a](https://www.linkedin.com/in/ian-jones-83a44832a/) · 🛠️ **Web design business:** [ianbuildsforyou.com](https://ianbuildsforyou.com) · 🛡️ **TryHackMe:** [choose](https://tryhackme.com/p/choose)
+🌐 **Portfolio:** [ianjonesportfolio.com](https://ianjonesportfolio.com) · 💼 **LinkedIn:** [ian-jones-83a44832a](https://www.linkedin.com/in/ian-jones-83a44832a/) · 🛠️ **Portfolio website business:** [ianbuildsforyou.com](https://ianbuildsforyou.com) · 🛡️ **TryHackMe:** [choose](https://tryhackme.com/p/choose)
 
 ---
 
@@ -15,7 +15,7 @@ I build things that solve real problems: AI tools, data-collection systems, CRMs
 | [**AI Affiliate Hub**](https://aiaffiliatehub22.pages.dev/) | AI video platform that pairs products with AI characters to create affiliate marketing content |
 | [**Local Business Scout**](https://localbusinessscoutfinal1.pages.dev/) | AI lead finder that uses Google Maps data to spot local businesses that need a website or marketing |
 | [**FinCalendar**](https://timewealthtrackerdemo.pages.dev/) | AI calendar and personal finance dashboard. Type "Meet with Tom, mon-wed-fri 3pm" and it schedules it |
-| [**Ian Builds For You**](https://ianbuildsforyou.com) | My web design business: fast, mobile-first websites for small businesses in Western New York |
+| [**Ian Builds For You**](https://ianbuildsforyou.com) | My personal portfolio website service: I build job seekers a professional site from their resume. Free draft in 48 hours, $99 only if you love it |
 | [**ianjonesportfolio.com**](https://ianjonesportfolio.com) | My portfolio site (React, Vite, Tailwind, Cloudflare Pages) |
 
 ### 🤖 Machine learning demos
